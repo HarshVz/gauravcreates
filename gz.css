@@ -282,3 +282,15 @@ html{
         margin-top: 1rem;
     }
   }
+
+
+  #support{
+    width: 620px; object-fit: cover;
+  }
+
+  
+  @media (max-width: 768px) {
+    #support{
+      width: 320px; object-fit: cover;
+    }
+  }
